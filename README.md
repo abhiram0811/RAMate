@@ -7,19 +7,11 @@
 *The main chat interface showing a conversation about emergency evacuation procedures*
 
 ### Response with Citations
-![Response with Sources](https://github.com/yourusername/RAMate/assets/your-user-id/response-citations.png)
+![Response with Sources](https://github.com/user-attachments/assets/0753a7a1-823e-4a62-b55a-18dc602183cd)
 *Example response showing proper source citations and confidence scoring*
 
-### System Status Dashboard
-![System Status](https://github.com/yourusername/RAMate/assets/your-user-id/system-status.png)
-*Real-time system status showing document count and API health*
 
-### Mobile Responsive Design
-<img src="https://github.com/yourusername/RAMate/assets/your-user-id/mobile-interface.png" width="300" alt="Mobile Interface">
 
-*RAMate works seamlessly on mobile devices*
-
-> 🎥 **Pro Tip**: Replace the placeholder URLs above with your actual GitHub-generated URLs after uploading screenshots!t Assistants (RAs) at Colorado State University find information from training documents.**
 
 ![RAMate Demo](https://img.shields.io/badge/Status-Operational-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.13-blue)

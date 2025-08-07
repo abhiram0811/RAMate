@@ -1,6 +1,25 @@
 # RAMate - RA Assistant System
 
-🎓 **A Retrieval-Augmented Generation (RAG) system to help Resident Assistants (RAs) at Colorado State University find information from training documents.**
+🎓 **A Retrieval-Augmented Generation (RAG) syste## 📸 Demo Screenshots
+
+### Main Chat Interface
+![RAMate Chat Interface](https://github.com/user-attachments/assets/b01c32d5-034b-46d3-a799-15372e8fe6df)
+*The main chat interface showing a conversation about emergency evacuation procedures*
+
+### Response with Citations
+![Response with Sources](https://github.com/yourusername/RAMate/assets/your-user-id/response-citations.png)
+*Example response showing proper source citations and confidence scoring*
+
+### System Status Dashboard
+![System Status](https://github.com/yourusername/RAMate/assets/your-user-id/system-status.png)
+*Real-time system status showing document count and API health*
+
+### Mobile Responsive Design
+<img src="https://github.com/yourusername/RAMate/assets/your-user-id/mobile-interface.png" width="300" alt="Mobile Interface">
+
+*RAMate works seamlessly on mobile devices*
+
+> 🎥 **Pro Tip**: Replace the placeholder URLs above with your actual GitHub-generated URLs after uploading screenshots!t Assistants (RAs) at Colorado State University find information from training documents.**
 
 ![RAMate Demo](https://img.shields.io/badge/Status-Operational-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
@@ -81,7 +100,25 @@ npm run dev
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:5000
 
-## 📁 Project Structure
+## � Demo Screenshots
+
+### Main Chat Interface
+![RAMate Chat Interface](docs/images/chat-interface.png)
+*The main chat interface showing a conversation about emergency evacuation procedures*
+
+### System Status Dashboard
+![System Status](docs/images/system-status.png)
+*Real-time system status showing document count and API health*
+
+### Response with Citations
+![Response with Sources](docs/images/response-citations.png)
+*Example response showing proper source citations and confidence scoring*
+
+### Mobile Responsive Design
+![Mobile Interface](docs/images/mobile-interface.png)
+*RAMate works seamlessly on mobile devices*
+
+## �📁 Project Structure
 
 ```
 ramate/
